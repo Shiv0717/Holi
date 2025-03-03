@@ -6,7 +6,7 @@ const Landing = () => {
     <div className="relative">
       {/* Video Section */}
       <video className="w-full object-cover" loop autoPlay muted>
-        <source src="/FILE.mp4" type="video/mp4" />
+      <source src="/Images/FILE.mp4" type="video/mp4" />
       </video>
 
       {/* "Happy" Text */}
